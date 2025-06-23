@@ -1,1 +1,1 @@
-import '@/styles/globals.css'; // or '../styles/globals.css' if not using @ alias
+import '../styles/globals.css'; // adjust if your path is different
